@@ -1,0 +1,16 @@
+{
+  "name": "callbag-github",
+  "version": "0.0.0",
+  "description": "Use streaming APIs from GitHub as Callbags",
+  "author": "Jamen Marz <jamenmarz@gmail.com>",
+  "main": "callbag-github.js",
+  "keywords": [
+    "callbag",
+    "github"
+  ],
+  "dependencies": {
+    "@jamen/query-string": "0.0.0",
+    "callbag-basics": "^3.0.0",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
